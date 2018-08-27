@@ -1,5 +1,5 @@
 # melhores atletas
 # RONALDO
-# CRISTIANO RONALDO
+# pelé
 # MESSI
 # ROBINHO
