@@ -1,0 +1,2 @@
+# A área de t.i é uma área bem ampla, dentro da área pretendo saber um pouco de tudo e me especialista na área de desenvolvimento, obtendo resultados para empresa e me aprimorando cada vez mais para poder solucionar problemas e cada vez mais buscando novos desafios.
+# Uma das empresas que vem crescendo cada vez mais é a Netshoes, é uma excelente oportunidade para aplicar os conhecimentos adquiridos como especialista na área de desenvolvimento e evitar problemas recorrentes, um bom salário e onde possa ser reconnhecido profissionalmente.
