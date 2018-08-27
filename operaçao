@@ -1,1 +1,23 @@
 
+#Lucas Ferreira Giordano RA 1801170 
+# Analise
+-cadastros Jogadores(nome, idade, altura, peso, posição, time)
+-mapa de calor
+-dados(km percorridos, velociadade Maxima, defesa, gols marcados, passes( certos e errados) status(lesionado ou apto para jogo)
+-status clube
+
+# Codificação
+Iremos utilizar o HTML para codificar textos e imagens, junto com o CSS para formatar o design da pagina.'OK' O java script sera back end da pagina, ira dar a funcionalidade dela.'OK' Para as aplicações web, sera utilizado  bootstrap e JQuery.'OK'
+Alem disso o sql para salvar os dados no banco.'OK' E por fim o python para a codificação do aplicativo.'OK' 
+
+# Página principal
+# Página da propaganda
+# Página dos destaques
+# Página dos times
+# Página das posições
+# Página principal - na parta superior esquerda terá uma página de busca.
+# Página de propaganda - no centro da página terá uma um link que contém propagando que ao clicar redirecionar para a página
+# Página de destaque - canto inferior a esquerda, ao clicar redireciona para os destaques da página
+# Página dos times - Canto inferior a esquerda, redireciona para os novidades do time selecionado
+# Página das posições - ao clicar na posição desejada, seleciona os times para ver a posição
+
