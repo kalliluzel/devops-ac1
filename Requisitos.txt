@@ -1,0 +1,13 @@
+# Jorge ILya Masta RA 1801265
+# Analise 
+-cadastros Jogadores(nome, idade, altura, peso, posição, time)
+-mapa de calor
+-dados(km percorridos, velociadade Maxima, defesa, gols marcados, passes( certos e errados) status(lesionado ou apto para jogo)
+-status clube
+
+# Kleber Cristian B. de Castro RA 1800358
+# Arthur Bravo de Matos Garcia RA 1800639
+# Codificação 
+
+Iremos utilizar o HTML para codificar textos e imagens, junto com o CSS para formatar o design da pagina. O java script sera back end da pagina, ira dar a funcionalidade dela. Para as aplicações web, sera utilizado  bootstrap e JQuery.
+Alem disso o sql para salvar os dados no banco. E por fim o python para a codificação do aplicativo.

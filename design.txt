@@ -1,0 +1,12 @@
+
+# Marcelo Rosa de Araujo RA 1800505
+# Página principal
+# Página da propaganda
+# Página dos destaques
+# Página dos times
+# Página das posições
+# Página principal - na parta superior esquerda terá uma página de busca.
+# Página de propaganda - no centro da página terá uma um link que contém propagando que ao clicar redirecionar para a página
+# Página de destaque - canto inferior a esquerda, ao clicar redireciona para os destaques da página
+# Página dos times - Canto inferior a esquerda, redireciona para os novidades do time selecionado
+# Página das posições - ao clicar na posição desejada, seleciona os times para ver a posição
